@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Adobe Photoshop",
+        "icon": "https://img.icons8.com/color/48/adobe-photoshop--v1.png"
+    },
+    {
+        "name": "Adobe Illustrator",
+        "icon": "https://img.icons8.com/color/48/adobe-illustrator--v1.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/figma--v1.png"
+    },
+    {
+        "name": "Adobe XD",
+        "icon": "https://img.icons8.com/color/48/adobe-xd--v1.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/color/48/canva.png"
+    },
+    {
+        "name": "CorelDRAW",
+        "icon": "https://img.icons8.com/color/48/coreldraw.png"
+    },
+    {
+        "name": "Adobe Premiere Pro",
+        "icon": "https://img.icons8.com/color/48/adobe-premiere-pro--v1.png"
+    },
+    {
+        "name": "Adobe After Effects",
+        "icon": "https://img.icons8.com/color/48/adobe-after-effects--v1.png"
+    },
+    {
+    "name": "CapCut",
+    "icon": "./cupcut.png"
+  },
+  {
+    "name": "Filmora",
+    "icon": "./fillmora.png"
+  },
+  {
+    "name": "Sketch",
+    "icon": "./sketch.png"
+  },
+  {
+    "name": "InVision",
+    "icon": "./ivision.png"
+  }
+]
