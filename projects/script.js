@@ -37,7 +37,7 @@ async function getProjects() {
     return data;
 }
 
-
+// added 
 function showProjects(projects) {
     let projectsContainer = document.querySelector(".work .box-container");
     let projectsHTML = "";
