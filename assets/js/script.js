@@ -65,11 +65,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Sabriina Ibraahiim Iidoow";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "/portfolio/assets/images/favicon.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/test.webp");
+            $("#favicon").attr("href", "/portfolio/assets/images/test.webp");
         }
     });
 
@@ -116,7 +116,7 @@ function showProjects(projects) {
     projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/portfolio/assets/images/projects/${project.image}.jpg" alt="project" />
+      <img draggable="false" src="/assets/images/projects/${project.image}.jpg" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
