@@ -1,9 +1,9 @@
 [
   {
-    "name": "Layout Design Project",
-    "desc": "A visual design project showcasing layout and graphic design skills.",
+    "name": "Multimedia Project 1",
+    "desc": "A multimedia project showcasing video editing and graphic design skills.",
     "image": "photo_2025-08-14_14-38-13",
-    "category": "graphicdesign",
+    "category": "multimedia",
     "links": {
       "view": "#",
       "code": "#"
@@ -11,7 +11,7 @@
   },
   {
     "name": "Graphic Design Work 1",
-    "desc": "A creative project focusing on branding and visual identity.",
+    "desc": "A creative graphic design project focusing on branding and visual identity.",
     "image": "photo_2025-08-14_14-38-07",
     "category": "graphicdesign",
     "links": {
@@ -20,10 +20,10 @@
     }
   },
   {
-    "name": "Poster & Campaign Graphics",
-    "desc": "A poster and social media graphics set designed for digital campaigns.",
+    "name": "Multimedia Project 2",
+    "desc": "An engaging multimedia piece combining video, sound, and animation.",
     "image": "photo_2025-08-14_14-38-04",
-    "category": "graphicdesign",
+    "category": "multimedia",
     "links": {
       "view": "#",
       "code": "#"
@@ -31,7 +31,7 @@
   },
   {
     "name": "Graphic Design Work 2",
-    "desc": "Digital illustration and editorial layout design.",
+    "desc": "A sleek graphic design focusing on digital illustration and layout.",
     "image": "photo_2025-08-14_14-38-01",
     "category": "graphicdesign",
     "links": {
@@ -40,10 +40,10 @@
     }
   },
   {
-    "name": "Logo & Typography Design",
-    "desc": "Brand identity design featuring typography and logo development.",
+    "name": "Multimedia Project 3",
+    "desc": "A project demonstrating video editing and motion graphics skills.",
     "image": "photo_2025-08-14_14-37-58",
-    "category": "graphicdesign",
+    "category": "multimedia",
     "links": {
       "view": "#",
       "code": "#"
@@ -51,7 +51,7 @@
   },
   {
     "name": "Graphic Design Work 3",
-    "desc": "Typography-focused graphic design with brand consistency.",
+    "desc": "A graphic design focused on typography and brand identity.",
     "image": "photo_2025-08-14_14-37-56",
     "category": "graphicdesign",
     "links": {
@@ -60,10 +60,10 @@
     }
   },
   {
-    "name": "Creative Poster Series",
-    "desc": "Visual storytelling through posters and campaign graphics.",
+    "name": "Multimedia Project 4",
+    "desc": "Video production and editing project highlighting storytelling skills.",
     "image": "photo_2025-08-14_14-37-51",
-    "category": "graphicdesign",
+    "category": "multimedia",
     "links": {
       "view": "#",
       "code": "#"
@@ -71,7 +71,7 @@
   },
   {
     "name": "Graphic Design Work 4",
-    "desc": "Creative poster series using vibrant color schemes and bold visuals.",
+    "desc": "Creative poster design project with vibrant color schemes.",
     "image": "photo_2025-08-14_14-37-46",
     "category": "graphicdesign",
     "links": {
@@ -80,10 +80,10 @@
     }
   },
   {
-    "name": "Social Media Visuals",
-    "desc": "Social media design set with custom illustrations and layouts.",
+    "name": "Multimedia Project 5",
+    "desc": "An animation and sound design project for multimedia applications.",
     "image": "photo_2025-08-14_14-37-43",
-    "category": "graphicdesign",
+    "category": "multimedia",
     "links": {
       "view": "#",
       "code": "#"
@@ -91,7 +91,7 @@
   },
   {
     "name": "Graphic Design Work 5",
-    "desc": "Logo design project showcasing brand identity and versatility.",
+    "desc": "Logo design project showcasing brand identity creation.",
     "image": "photo_2025-08-14_14-37-35",
     "category": "graphicdesign",
     "links": {
@@ -100,10 +100,10 @@
     }
   },
   {
-    "name": "Promotional Print Design",
-    "desc": "Promotional flyer and brochure design for a campaign.",
+    "name": "Multimedia Project 6",
+    "desc": "Creative video montage for promotional purposes.",
     "image": "photo_2025-08-14_14-37-32",
-    "category": "graphicdesign",
+    "category": "multimedia",
     "links": {
       "view": "#",
       "code": "#"
@@ -111,7 +111,7 @@
   },
   {
     "name": "Graphic Design Work 6",
-    "desc": "Vector-based digital illustration for print and web.",
+    "desc": "Digital illustration project with vector art techniques.",
     "image": "photo_2025-08-14_14-37-29",
     "category": "graphicdesign",
     "links": {
@@ -120,10 +120,10 @@
     }
   },
   {
-    "name": "Event Branding Materials",
-    "desc": "Event branding materials including posters and social media graphics.",
+    "name": "Multimedia Project 7",
+    "desc": "Short film editing and post-production work.",
     "image": "photo_2025-08-14_14-37-26",
-    "category": "graphicdesign",
+    "category": "multimedia",
     "links": {
       "view": "#",
       "code": "#"
@@ -131,7 +131,7 @@
   },
   {
     "name": "Graphic Design Work 7",
-    "desc": "Brochure design with a balanced layout and clean typography.",
+    "desc": "Creative brochure design with balanced layout and visuals.",
     "image": "photo_2025-08-14_14-37-22",
     "category": "graphicdesign",
     "links": {
@@ -140,10 +140,10 @@
     }
   },
   {
-    "name": "Promotional Campaign Visuals",
-    "desc": "Creative campaign visuals designed for promotional use.",
+    "name": "Multimedia Project 8",
+    "desc": "Music video editing with creative effects.",
     "image": "photo_2025-08-14_14-37-15",
-    "category": "graphicdesign",
+    "category": "multimedia",
     "links": {
       "view": "#",
       "code": "#"
@@ -151,7 +151,7 @@
   },
   {
     "name": "Graphic Design Work 8",
-    "desc": "Editorial magazine layout and feature page designs.",
+    "desc": "Magazine layout and editorial design project.",
     "image": "photo_2025-08-14_14-37-12",
     "category": "graphicdesign",
     "links": {
@@ -160,10 +160,10 @@
     }
   },
   {
-    "name": "Product Packaging & Label Design",
-    "desc": "Packaging and label design for a product line.",
+    "name": "Multimedia Project 9",
+    "desc": "Visual effects and animation project for multimedia content.",
     "image": "photo_2025-08-14_14-37-07",
-    "category": "graphicdesign",
+    "category": "multimedia",
     "links": {
       "view": "#",
       "code": "#"
@@ -171,7 +171,7 @@
   },
   {
     "name": "Graphic Design Work 9",
-    "desc": "Business card and stationery set for a professional brand.",
+    "desc": "Business card and identity system design.",
     "image": "photo_2025-08-14_14-37-01",
     "category": "graphicdesign",
     "links": {
