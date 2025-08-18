@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio  Sabriina Ibraahiim Iidoow";
+            document.title = "Projects | Portfolio  Sabrina Ibraahiim Idoow";
             $("#favicon").attr("href", "/portfolio/assets/images/favicon.png");
         }
         else {

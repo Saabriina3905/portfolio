@@ -65,7 +65,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Sabriina";
+        document.title = "Experience | Portfolio Sabrina";
         $("#favicon").attr("href","/portfolio/assets/images/favicon.png");
     }
     else {
