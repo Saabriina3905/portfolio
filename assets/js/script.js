@@ -262,3 +262,18 @@ srtop.reveal(".experience .timeline .container", { interval: 400 });
 /* SCROLL CONTACT */
 srtop.reveal(".contact .container", { delay: 400 });
 srtop.reveal(".contact .container .form-group", { delay: 400 });
+
+
+// Duplicate carousel images for seamless scroll
+document.addEventListener('DOMContentLoaded', () => {
+  const track = document.querySelector('.carousel-track');
+  if (track) {
+    const slides = track.children;
+    const slideCount = slides.length;
+    for (let i = 0; i < slideCount; i++) {
+      const clone = slides[i].cloneNode(true);
+      track.appendChild(clone);
+    }
+  }
+});
+
